@@ -1,0 +1,27 @@
+[
+  {
+    "elements": [
+      "Cr",
+      "Ti",
+      "V"
+    ],
+    "speciesToCreateAndSelect": [],
+    "speciesToAdd": [],
+    "speciesToRemove": [],
+    "phasesToAdd": [
+      "BCC_B2#1",
+      "BCC_B2#2",
+      "C15_Laves#1",
+      "HCP_A3#1"
+    ],
+    "addedCompositionSets": [],
+    "phasesToRemove": [],
+    "constituentsToRejectFromSublattice": [],
+    "constituentsToSelectFromSublattice": [],
+    "name": "TCHEA7",
+    "deSelectDefaultPhases": true,
+    "lastChanged": 0,
+    "isUserDatabase": false,
+    "databaseLoadCommand": "TCHEA7"
+  }
+]

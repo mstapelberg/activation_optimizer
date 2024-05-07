@@ -1,0 +1,23 @@
+{
+  "TCHEA7": [
+    "\u0027N. Dupin, fixing VA:VA\u003d30*T\u0027",
+    "\u0027Default volume data, V0DFLT\u003d7.0E-6; VADFLT\u003d10.0E-6*THREE*DELTAT\u0027",
+    "\u0027Alan Dinsdale, SGTE Data for Pure Elements, Calphad Vol 15(1991) p 317-425, also in NPL Report DMA(A)195 Rev. August 1990\u0027",
+    "\u0027X.-G. Lu, M. Selleby and B. Sundman, CALPHAD, Vol. 29, 2005, pp. 68-89; Molar volumes\u0027",
+    "\u0027Alan Dinsdale, SGTE Data for Pure Elements, NPL Report DMA(A)195 September 1989\u0027",
+    "\u0027Volume data for TCFE4, 2006\u0027",
+    "\u0027G(LAVES,AA)\u003d3*G(SER,AA)+15000\u0027",
+    "\u0027A.T. Dinsdale, SGTE Data for Pure Elements, NPL Report DMA(A) 195 Rev. August 1990\u0027",
+    "\u0027N. Dupin, introduction of V\u0027",
+    "\u0027M.H. Rand and N. Saunders, COST 507 Report (1998); Si-V\u0027",
+    "\u0027Nigel Saunders, 1992, COST 507; Cr-Ti\u0027",
+    "\u0027N. Dupin, August 1999, unpublished revision; Cr-Ni-Ti, Al-Cr-Ni-Ti\u0027",
+    "\u0027B J Lee, Z Metallkde 83(1992)5 p 292-299; Cr-Fe-V\u0027",
+    "\u0027H L Chen, Remodeling of Cr-Ti-V, for Project Ti/TiAl, 2016\u0027",
+    "\u0027H L Chen, Modifications on Al-Ti, Al-V, Ti-V \u0026 Ti-Al-V, for Project Ti/TiAl, 2016\u0027",
+    "\u0027Greta Lindwall, Reassessment of Ti-V in Nist, 2016, Ti-V\u0027",
+    "\u0027H-L Chen, in TCAL7.0, Evaluation and modeling of electrical resistivity \u0026 thermal conductivity\u0027",
+    "\u0027R. Naraghi, Thermo-Calc Software AB, Sweden, 2021; Default values for ELRS/THCD\u0027",
+    "\u0027Yang YANG, Thermo-Calc Software AB, Sweden, 2021; Assessment of ELRS/THCD for Ti alloys\u0027"
+  ]
+}
